@@ -1,0 +1,20 @@
+# The Curious Developer
+
+Once upon a time, in a small town, lived a curious developer named Gopala.  
+He loved exploring new tools, fixing tricky bugs, and building pipelines that never broke.  
+
+One day, he discovered a magical tool called **Git**.  
+With Git, he could travel back in time, create parallel worlds (branches),  
+and merge them together to build something even greater.  
+
+At first, Gopala made small changes:  
+- Adding a line here  
+- Removing a typo there  
+
+But soon, he realized Git was more than just a tool.  
+It was a storybook of his journey, recording every step, every experiment, every success.  
+
+And so, every commit became a chapter in his adventure.  
+The repository grew, and with it, Gopala’s skills and confidence.  
+
+The story continues…  
